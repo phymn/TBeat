@@ -1,0 +1,10 @@
+*.zip
+*.y4m
+*.mp4
+*.mov
+*.log
+*.csv
+test/*.png
+test/*.jpg
+__pycache__/
+.DS_Store
